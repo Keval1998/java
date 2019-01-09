@@ -1,4 +1,4 @@
-package collection;
+package com.keval_rajyaguru.collectionAns;
 
 import java.util.Comparator;
 import java.util.SortedSet;

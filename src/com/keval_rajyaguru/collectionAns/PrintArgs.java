@@ -1,4 +1,4 @@
-package collection;
+package com.keval_rajyaguru.collectionAns;
 
 import java.util.Arrays;
 import java.util.List;
